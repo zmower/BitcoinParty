@@ -1,0 +1,115 @@
+Principles
+----------
+
+The BitcoinParty's main aim is to promote bitcoin to legal tender status within
+its operating area.  We also believe that (as with bitcoin) transparency and
+decentralisation of power are the best ways to run a country.
+
+Structure
+---------
+
+Each grouping self-organises.  Members are in control.  Each local grouping is
+served by a secretary and a treasurer.
+
+At the lowest level, a General Secretary exists to serve the local groupings
+(e.g. by interfacing to regulators and dealing with those things which must be
+done/held centrally) within the country they are serving.  Initially a
+country's General Secretary is the person who does the leg-work to initiate the
+party in that country.
+
+Similarly a General Treasurer exist to deal with centralised monetary issues. 
+The General Secretary appoints the initial General Treasurer.
+
+Terms and voting
+----------------
+
+Local groupings vote to elect their secretary and treasurer every year (unless
+their secretary is their representative, see rule 8).
+
+A country's secretaries elect a General Secretary from their number every two
+years.
+
+A country's treasurers elect a General Treasurer from their number every two
+years.
+
+In the event that this party forms a govenment, its ministers will be elected
+by the party representatives, one at a time, in reverse seniority order.  A
+member cannot win more than one ministry. The General Secretary organises the
+ballots.  
+
+The Rules
+---------
+
+1. Members will self-organise within a voting area.  Elected members also self
+organise.
+
+2. A meeting shall be held on a web forum to inaugurate the local party
+grouping.  The meeting must result in the appointment of a secretary and a
+treasurer.
+
+2a Once formed it is the secretary's responsibility to inform the country's
+General Secretary of the details from 2 and their contact details.  These will
+be added to the relevant country groupings file held by the General Secretary.
+
+3. It is the secretary's responsabilty to keep track of the local party
+membership and organise the agendas of meetings based on member input.
+
+4. It is the financial officers responsibilty to keep track of any monetary
+transactions related to the operation of the local party.
+
+4a These transactions must be reported to the country's regulator in accordance
+with their rules.
+4b There will be no loans taken or made.
+4c Only donations below a small amount from a known source who is also an
+elegable voter. The small amount is set by the country's General Secretary.
+4d Any inelligable donations will be returned.  Any inelligable donations which
+cannot be returned to the donor will be returned to the regulator within 30
+days of receipt.
+
+5. All policies not covered by the principles section will be decided by the
+local party grouping to meet local concerns.
+
+6. Candidates for elections shall apply to the appropriate secretary (e.g.
+minister candates apply to the General Secretary) during the submissions
+period.
+
+6a. For local grouping officers, the submissions period starts a month before
+the expiry of their term and ends after a week.  If the incumbent does not
+intend to run he should make this clear at the start of the submission period.
+If no candidates step forward, the submission period repeats.
+
+6b. For representative candidates, the submission period is at the discretion
+of the appropriate secretary but must be clear to voting members.  Once
+started, it should follow the rules in 6a. 
+
+7. Campaignig shall last three weeks. A meeting shall be held and a series of
+votes taken to decide on the candidate(s).  If there are S seats to fill and C
+candidates then:
+
+7a. If C <= S then votes must be held for each candidate.  The candidates must
+win the votes of the majority of the members present at the meeting.
+7b If C > (S+1) then a vote must be held to reduce the number of candidates to
+S+1.
+7c When C = (S+1) then there will be a final vote to select the N candidates.
+The one with the least votes is not elected.
+7d In the case of a tie then the outcome is decided on the rolling of dice.
+
+8. A candidate who wins an election for a representative's seat automatically
+becomes the secretary for the local grouping.
+
+9. A member may be removed from the party by a vote of the local grouping.  A
+secretary or treasurer may be removed from office by a vote of no confidence by
+the local grouping.  A General Secretary may be removed from office by a vote
+of no confidence by the collection of local secretaries.  A General Treasurer
+may be removed from office by a vote of no confidence by the collection of
+local trasurers.  A minister may be removed by a vote of no confidence by the
+collection of representatives.  Removal of an officer immediately starts the
+submision period.  If a secretary has been removed, a temporary replacement
+will be chosen at random from the voter base.
+
+Coda
+----
+
+These rules, their attendant rationale document and any common detailed policies (TBD) are maintained by u/zmower.  Anybody can propose rule changes via either the github PR system or by bringing internet threads of discourse to my attention.  Feel free to fork!
+
+

@@ -1,0 +1,105 @@
+Introduction
+------------
+
+This document is an explanation of some of the thinking behind the rules.
+
+While I am a UK resident and these rules are written aimed at the creation of a
+UK based party, I've attempted to write them so that you can use them in your
+country.  There's no centralised organisation you need permission from.  Just
+be aware of your country's rules regarding elections.  Note that I will accept
+translations which include country specific changes (as long as you don't stray
+from the intention).
+
+These Rules and Rationale documents are held on github at
+https://github.com/zmower/BitcoinParty.  To change them raise an Issue or email
+me at zmower at protonmail.com and we will discuss it.
+
+Principles
+----------
+
+Since someone posted about a hedonistic Bitcoin party, I thought I'd try to
+make the party name a little more differentiated by combining the two words,
+hashtag-style.
+
+Legal tender seems like a worthy goal but does it go far enough?  Would closing
+the BoE stop inflation?  Would closing the BoE cause deflation?  Would we keep
+fiat and cause the banks to settle in bitcoin?  Discuss!
+
+There's too much secrecy in government.  How are citizens supposed to make
+decisions when they don't have the full details.
+
+It seems to me that the power of bitcoin is mostly in its decentralisation.
+What if state power was similarly decentralised?  Start by abolishing some
+under-performing ministries and hand their responsibilities and funding to
+local councils.
+
+Structure
+---------
+
+In UK Electoral Commision terms, each local grouping as an accounting unit.
+
+Terms and Voting
+----------------
+
+The one year term for local officers is to encourage experimentation.
+
+Two years seems like long enough to make an impact.
+
+Every five years for MPs seems like too long but this is (currently) out of our
+control.`
+
+The Rules
+---------
+
+Rule 1
+
+The idea is to get elected and effect change so organising on a per
+Parliamentary seat basis seems ideal.  You can go finer grained (per ward) if
+you have the numbers and then organise a combined meeting for the Parliamentary
+seat.  But there must only be a maximum of one group per parliametary seat.
+
+Rule 2
+
+I'm ultra-aware (as a Ledger owner) that anonymity for bitcoin holders is
+important.  Hence why the meeting is virtual.  Textual conversations are also
+more accessible.
+
+Who calls the meeting?  You do.  Or someone else in your consituency.
+
+Where are these meetings to be advertised? I've created r/BitcoinParty on
+reddit for this purpose
+
+Rule 3
+
+The secretary serves the members needs.
+
+Rule 4
+
+The Electoral Commision requires that the money is tracked.  The restrictions
+on the taking and making of loans is to simplify the treasurer's and the EC's
+job.  The restrictions on donations are for the same reaons and a good idea to
+prevent overdue influence by  donors.
+
+Rule 5
+
+Localism.  Local first.  Bottom up.  This is the way.
+
+Rules 6 and 7
+
+Boring voting stuff.  Ideally we'd all list our preferences in order and then
+do some Debian-like voting system.  But I wanted something that could be
+decided in one short meeting.
+
+If there are less candidates than seats then you still want to test the
+confidence in your candidates.  If they fail to get a majority in the room
+then that's a sure sign they won't win!
+
+Rule 8
+
+A late addition.  I thought this might prevent a representative becoming remote
+to the local party/captured by the bubble.
+
+Rule 9
+
+As Tony Benn said, "And how can we get rid of you?".
+
