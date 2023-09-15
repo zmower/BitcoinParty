@@ -1,0 +1,44 @@
+Principles
+----------
+
+We take privacy seriously.  We will strive to keep the amount of data stored to
+the minimum required to legally run a political party.  Under no circumstances
+will this data be monetised.
+
+It will be difficult to secure any data for a party that bases itself on
+decentralisation.  Bitcoin has managed to be secure but at great computational
+cost.  Sounds like we need a DAO...
+
+Should any of our data leak, we will be open about the facts.  Reporting will
+be punctual.  Detailed analysis takes time though.
+
+Processing Rules
+----------------
+
+The BitcoinParty only holds the following data centrally (per-country):
+
+The names and contact details (email addresses, phone numbers etc but should
+under no account include physical addresses) of secretaries and treasurers.
+These may be passed to potential members enquiring about joining a local
+grouping. (We may need a physical address for each accounting unit I'm not
+sure yet.)
+
+All donatations including
+    the accounting unit taking the donation
+    the name of the source, if known
+    the amount of the donation, if money, or the nature and value of the
+      donation if non-money
+    the manner in which the donation was made
+    if the donation is permissible
+    the date we received the donation
+    the date we accepted the donation
+    the date we returned the donation
+    the action we took to return the donation (for example, the person or
+      institution you returned it to)
+
+These donation details will be passed to regulators in accordance with their
+rules.
+
+Each local grouping also keeps data (which may include names, email addresses,
+phone numbers but should under no account include physical addresses) to keep
+track of its membership.
