@@ -50,6 +50,9 @@ treasurer.
 2a Once formed it is the secretary's responsibility to inform the country's
 General Secretary of the details from 2 and their contact details.  These will
 be added to the relevant country groupings file held by the General Secretary.
+2b In the event of multiple groups forming for a constituency, the first
+application wins.  Any further applications will be refered to the first
+grouping.
 
 3. It is the secretary's responsabilty to keep track of the local party
 membership and organise the agendas of meetings based on member input.
@@ -61,8 +64,8 @@ transactions related to the operation of the local party.
 with their rules.
 4b There will be no loans taken or made.
 4c Only donations below a small amount from a known source who is also an
-elegable voter. The small amount is set by the country's General Secretary.
-4d Any inelligable donations will be returned.  Any inelligable donations which
+eligible voter. The small amount is set by the country's General Secretary.
+4d Any inelligible donations will be returned.  Any inelligible donations which
 cannot be returned to the donor will be returned to the regulator within 30
 days of receipt.
 
@@ -95,7 +98,7 @@ The one with the least votes is not elected.
 7d In the case of a tie then the outcome is decided on the rolling of dice.
 
 8. A candidate who wins an election for a representative's seat automatically
-becomes the secretary for the local grouping.
+becomes the secretary for the local grouping they represent.
 
 9. A member may be removed from the party by a vote of the local grouping.  A
 secretary or treasurer may be removed from office by a vote of no confidence by
@@ -110,6 +113,10 @@ will be chosen at random from the voter base.
 Coda
 ----
 
-These rules, their attendant rationale document and any common detailed policies (TBD) are maintained by u/zmower.  Anybody can propose rule changes via either the github PR system or by bringing internet threads of discourse to my attention.  Feel free to fork!
+These rules, their attendant rationale document and any common detailed
+policies (TBD) are maintained by u/zmower.  Anybody can propose rule changes
+via either a github Issue or by bringing internet threads of discourse to my
+attention.  Translations welcome.  Translations can change the rules to suit
+your country but should keep the intent.  Feel free to fork!
 
 

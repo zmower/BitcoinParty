@@ -36,7 +36,14 @@ local councils.
 Structure
 ---------
 
+Here I'm inverting the usual triangle with the leader at the top and replacing
+it with public servants. Yes, General Secretary is inspired by the union
+movement.
+
 In UK Electoral Commision terms, each local grouping as an accounting unit.
+Their leader equates to our General Secretary.  Maybe I should add a rule that
+states explicitly that secretaries can't run for other offices?  Beware of
+signs of leadership (centralisation) in your officers!
 
 Terms and Voting
 ----------------
@@ -46,7 +53,9 @@ The one year term for local officers is to encourage experimentation.
 Two years seems like long enough to make an impact.
 
 Every five years for MPs seems like too long but this is (currently) out of our
-control.`
+control.
+
+Voting for cabinet offices? Democratic!
 
 The Rules
 ---------
@@ -68,6 +77,10 @@ Who calls the meeting?  You do.  Or someone else in your consituency.
 
 Where are these meetings to be advertised? I've created r/BitcoinParty on
 reddit for this purpose
+
+The first application wins rule is designed to incentivise initial growth. I
+could have chosen largest grouping wins but then you have to trust the
+person applying.
 
 Rule 3
 
@@ -98,6 +111,9 @@ Rule 8
 
 A late addition.  I thought this might prevent a representative becoming remote
 to the local party/captured by the bubble.
+
+If your representative turns out to be a bad secretary you can still vote to
+remove them from their secretarial post.
 
 Rule 9
 
